@@ -2,7 +2,6 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Declarative Autonaming</fullName>
     <apiAccessLevel>Unrestricted</apiAccessLevel>
-    <namespacePrefix>autonaming</namespacePrefix>
     <types>
         <members>CustomMetadataService</members>
         <members>CustomMetadataServiceTest</members>
