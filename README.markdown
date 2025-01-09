@@ -48,7 +48,7 @@ Installing the Source Code (Developers)
 
 If you are a developer obtain the source code from this repository if you wish to develop it further and/or contribute to it. Click the button below to deploy the source code to your developer or sandbox org.
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=bradstrussr&repo=declarative-autonaming">
+<a href="https://githubsfdeploy.herokuapp.com?owner=bradstruss&repo=declarative-autonaming">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
